@@ -5,3 +5,4 @@ source/vendor
 /ci-scripts/test/cucumber/node_modules
 /.data/
 /logs/
+/.env
